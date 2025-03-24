@@ -189,6 +189,9 @@ A continuación, se presentan algunas capturas de pantalla y ejemplos visuales d
 ![Eliminar](./evidencias/eliminar.png)
 
 
+#### JENKIS
+![Jenkins](./evidencias/jenkins.png)
 
-
+#### KUBERNETES
+![Kubernetes](./evidencias/kubernetes.png)
 
